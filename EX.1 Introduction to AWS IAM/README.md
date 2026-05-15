@@ -96,7 +96,5 @@ User-3
 This lab provided hands-on experience with AWS IAM by demonstrating how organizations manage secure access to cloud resources. Assigning users to groups with predefined policies simplified permission management and ensured role-based access control across AWS services.
 
 
-## Author
-**Name:** Aaron I  (212223230002)
-**Course:** Introduction to Cloud Computing  
+
 
